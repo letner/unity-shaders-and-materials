@@ -1,5 +1,7 @@
 # Unity Shaders and Materials
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/15dfa04217804b04a158fbc953882b57)](https://app.codacy.com/app/letner/unity-shaders-and-materials?utm_source=github.com&utm_medium=referral&utm_content=letner/unity-shaders-and-materials&utm_campaign=Badge_Grade_Dashboard)
+
 Just a collection of shaders may be used in Unity projects.
 
 ## Shader for random dirt on a wall
