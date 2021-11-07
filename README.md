@@ -21,3 +21,4 @@ Result:
 - `Transparent` - good for splashes and other decals
 - `GradientSkybox` - creates nice fast skybox with a gradient from one color to another
 
+[mobile]: http://zipsted.com/github/shaders-and-material-images/mobile.png
