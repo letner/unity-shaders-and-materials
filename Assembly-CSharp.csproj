@@ -181,9 +181,6 @@
  <Reference Include="UnityEngine.SubstanceModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubstanceModule.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.SubsystemsModule">
- <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.TLSModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TLSModule.dll</HintPath>
  </Reference>
@@ -217,9 +214,6 @@
  <Reference Include="UnityEngine.UmbraModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UmbraModule.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.UnityAnalyticsModule">
- <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UnityConnectModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
  </Reference>
@@ -244,9 +238,6 @@
  <Reference Include="UnityEngine.VFXModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VFXModule.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.VRModule">
- <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.VehiclesModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
  </Reference>
@@ -255,12 +246,6 @@
  </Reference>
  <Reference Include="UnityEngine.VirtualTexturingModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.WindModule">
- <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.XRModule">
- <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
